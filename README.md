@@ -33,7 +33,7 @@ The goal of this extension is to make it easy to retrieve LinkedIn profile infor
 
 ## 🔎 How to Test
 
-1. Open a LinkedIn profile (e.g., [Test Profile](https://www.linkedin.com/in/raman-ghai-8bb7b418/)).
+1. Open a LinkedIn profile (e.g., [Test Profile](https://www.linkedin.com/in/rish2408/)).
 2. Click on the extension icon.
 3. A popup will display the profile details and email (if available from Hunter.io).
 
